@@ -1,4 +1,4 @@
 
-# TIQIT
+# SPRING 2020
 
-Sito ufficiale dell'evento TIQIT organizzato dal comitato locale di Trento
+Sito ufficiale dell'evento SPRING 2020
