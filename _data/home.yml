@@ -1,5 +1,5 @@
-logo: "img/logo-white.png"
-longname: "Trento Innsbruck Quantum Information Tour"
+logo: "img/logo_RING_white.png"
+longname: "Spring in Genève"
 
 #banner: img/banner.jpg
 
@@ -12,23 +12,15 @@ where: "A Ginevra e al CERN, al confine tra Francia e Svizzera"
 slideshow:
   - img: img/cern.jpg
     alt: CERN
-    title: CERN
-    text: Conseil européen pour la recherche nucléaire
-  - img: img/isolde.jpg
-    alt: ISOLDE
-    title: ISOLDE
-    text: Isotope Separator On Line DEvice
   - img: img/atlas.jpg
     alt: ATLAS
-    title: ATLAS
-    text: A Toroidal LHC ApparatuS
+  - img: img/gruppo.jpg
+    alt: group
   - img: img/cms.jpg
     alt: CMS
-    title: CMS
-    text: Compact Muon Solenoid
-  - img: img/lhcb.jpg
-    alt: LHCb
-    title: LHCb
-    text: LHCbeauty
+  - img: img/alice.jpg
+    alt: ALICE
 
-paragraph: "La prima edizione di septembeR IN Genève è organizzata dall'Associazione Italiana Studenti di Fisica. L'evento porterà gli studenti a conoscere alcuni tra i maggiori esperimenti in corso al CERN con l'obiettivo di stimolare le menti dei giovani fisici."
+    
+
+paragraph: "spRing IN Genève è organizzata dall'Associazione Italiana Studenti di Fisica. L'evento porterà gli studenti a conoscere alcuni tra i maggiori esperimenti in corso al CERN con l'obiettivo di stimolare le menti dei giovani fisici."
