@@ -6,7 +6,7 @@ description:
         - paragraph: 
             - line: "Troverai il modulo di iscrizioni al fondo di questa pagina. Ti preghiamo di leggere attentamente i termini e le condizioni prima di compilarlo. Durante la registrazione ti verranno richieste informazioni personali (quali nome, cognome, data e luogo di nascità etc.) e un breve testo motivazionale" 
         
- sections:
+sections:
     - name: "Selection"
       info: ""
       points:         
