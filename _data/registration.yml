@@ -12,7 +12,11 @@ sections:
       points:         
         - text: "Sono disponibili in totale 24 posti:"
         - text: "la quota di partecipazione di <b>100</b> euro comprende:"
-             
+          subpoints:
+            - text: "il soggiorno presso l'hotel per le 3 notti dell'evento, comprensivo di colazione"
+            - text: "trasporti per raggiungere le facilities del programma all'interno del CERN"
+            - text: "sacchetto con i gadget dell'evento e maglietta"
+            - text: "la cena sociale di martedì"    
         - text: "La quota di partecipazione <b>non comprende</b>:"
              subpoints:
                 - text: "spese di viaggio per raggiungere Ginevra"
