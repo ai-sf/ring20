@@ -28,7 +28,7 @@ sections:
     
     
  
-
+ 
     - name: "Terms"
       info: "Prima della registrazione leggere con attenzione quanto segue."
       points:
@@ -53,13 +53,13 @@ sections:
         - text: "I presenti Termini sono governati dalle leggi della Repubblica Italiana e dagli Statuto, Regolamento Interno e Privacy Policy AISF."
           url: "#!"
           
-          
-     - name: "Deadlines" 
-       info: ""
-       points:
-         - text: "Le iscrizioni apriranno lunedì 10 febbraio 2020 alle ore 12:00 e chiuderanno mercoledì 26 febbraio 2020 alle ore 24:00."
-         - text: "La selezione dei partecipanti sarà effettuata dal Comitato Organizzatore di RING 2020 in collaborazione con il Comitato Esecutivo AISF. La lettera di motivazione, da inserire nel form di registrazione, pur rimanendo facoltativa, sarà un importante elemento di valutazione."
-         - text: "Entro 3 giorni dalla chiusura delle registrazioni, i partecipanti selezionati saranno avvisati tramite l'indirizzo e-mail indicato in fase di registrazione. Si prega a tal proposito di controllare quotidianamente la casella di posta. Sarà quindi richiesto il pagamento della quota di iscrizione entro e non oltre 7 giorni dalla ricezione della e-mail, pena l'esclusione dalla partecipazione all'evento."
+       
+    - name: "Deadlines" 
+      info: ""
+      points:
+        - text: "Le iscrizioni apriranno lunedì 10 febbraio 2020 alle ore 12:00 e chiuderanno mercoledì 26 febbraio 2020 alle ore 24:00."
+        - text: "La selezione dei partecipanti sarà effettuata dal Comitato Organizzatore di RING 2020 in collaborazione con il Comitato Esecutivo AISF. La lettera di motivazione, da inserire nel form di registrazione, pur rimanendo facoltativa, sarà un importante elemento di valutazione."
+        - text: "Entro 3 giorni dalla chiusura delle registrazioni, i partecipanti selezionati saranno avvisati tramite l'indirizzo e-mail indicato in fase di registrazione. Si prega a tal proposito di controllare quotidianamente la casella di posta. Sarà quindi richiesto il pagamento della quota di iscrizione entro e non oltre 7 giorni dalla ricezione della e-mail, pena l'esclusione dalla partecipazione all'evento."
    
       
 
