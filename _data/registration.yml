@@ -3,8 +3,10 @@ description:
     paragraphs:
         - paragraph:
             - line: "Le iscrizioni saranno aperte dalle ore 12:00 di lunedì 10 fino a mercoledì 26 febbraio alle 24:00"
-        - paragraph: 
-            - line: "Troverai il modulo di iscrizioni al fondo di questa pagina. Ti preghiamo di leggere attentamente i termini e le condizioni prima di compilarlo. Durante la registrazione ti verranno richieste informazioni personali (quali nome, cognome, data e luogo di nascità etc.) e un breve testo motivazionale" 
+        - paragraph:
+            - line: "Troverai il modulo di iscrizioni al fondo di questa pagina. "
+            - line: "Ti preghiamo di leggere attentamente i termini e le condizioni prima di compilarlo. Durante la registrazione ti verranno richieste informazioni personali (quali nome, cognome, data e luogo di nascità etc.) e un breve testo motivazionale."
+
         
 sections:
     - name: "Selection"
