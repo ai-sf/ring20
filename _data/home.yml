@@ -3,7 +3,8 @@ longname: "Spring in Genève"
 
 #banner: img/banner.jpg
 
-who: "24 studenti di fisica da diverse università italiane."
+who:
+    text: "24 studenti di fisica da diverse università italiane."
 
 when: "Dal 20 al 23 Aprile 2020"
 
