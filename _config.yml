@@ -1,7 +1,7 @@
 # Site settings
 title: "RING20"
 description: "spRINg in Geneve"
-url: "http://ai-sf.it/spring20"
+url: "http://ai-sf.it/ring20"
 destination: ../site/
 locale: "it"
 
