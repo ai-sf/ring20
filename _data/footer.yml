@@ -9,10 +9,8 @@ contact:
     mail: romatorvergata@ai-sf.it
 
 connect:
-  - name: Facebook
-    url: https://www.facebook.com/aisf.fisica/
-  - name: Instagram
-    url: https://www.instagram.com/aisf_physics/
+  - facebook: https://www.facebook.com/aisf.fisica/
+  - instagram: https://www.instagram.com/aisf_physics/
 
 creator:
   - name: Elisa Garabello

@@ -18,10 +18,22 @@
         <h5 class="white-text">Connect</h5>
         <ul>
           {% for item in site.data.footer.connect %}
-	        <li>
-            <a class="white-text" href="{{item.url}}" target="_blank"><img src="{{site.url}}/img/fb_logo.png"></a>
-          </li>
-	        {% endfor %}
+	  {% if item.facebook %}
+	  <li style="display: inline; margin: 5px;">
+	    <a href="{{item.facebook}}" target="_blank">
+	      <span style="font-size: 48px; color: white;">
+		<i class="fab fa-facebook-square"></i>
+	      </span>
+	  </li>
+	  {% endif %}
+	  {% if item.instagram %}
+	  <li style="display: inline; margin: 5px;">
+	    <a href="{{item.instagram}}" target="_blank">
+	      <span style="font-size: 48px; color: white;">
+		<i class="fab fa-instagram-square"></i>
+	  </li>
+	  {% endif %}
+	  {% endfor %}
         </ul>
       </div>
     </div>
