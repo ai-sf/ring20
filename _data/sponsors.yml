@@ -1,6 +1,6 @@
 text: Sponsors
 
-img: img/sponsor4.png
+img: 
 mail:  esecutivo@ai-sf.it
 
 slideshow:
@@ -12,21 +12,4 @@ slideshow:
 cards:
     - size: "small"
       items:
-        - title: "Physics Department of Trento"
-          site: "http://www.physics.unitn.it/en"
-          img: "img/sponsors/logodipfisica.jpg"
-        - title: "IQOQI"
-          site: "https://www.iqoqi.at/en/"
-          img: "img/sponsors/LogoIQOQI.png"
-        - title: "Q@TN"
-          site: "https://www.quantumtrento.eu/"
-          img: "img/sponsors/Qattn.jpg"
-        - title: "Italien-Zentrum"
-          site: "https://www.uibk.ac.at/italienzentrum/index.html.it"
-          img: "img/sponsors/logoitalienzentrum.jpg"
-        - title: "Innsbruck Physics Research Center"
-          site: "https://www.uibk.ac.at/sp-physik/"
-          img: "img/sponsors/innsbruckphys.jpg"
-        - title: "University of Innsbruck"
-          site: "https://www.uibk.ac.at/index.html.en"
-          img: "img/sponsors/uniinns.jpg"
+       
