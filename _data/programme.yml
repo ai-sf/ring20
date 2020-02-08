@@ -15,129 +15,40 @@ description:
 last_update: 27/11/19
 
 schedule:
-  - day: "Monday"
-    date: "23/03"
-    location: "Trento"
+  - day: "Lunedì"
+    date: "20/04"
+    location: "Ginevra"
     activity:
-      - hour: "9:00"
-        name: "Accreditation in Trento"
+      - hour: "All day"
+        name: "Arrivi e check-in in hotel"
         location:
-            name: "Physics Department"
-            tag: "physunitn"
-      - hour: "11:00"
-        name: "Open cerimony"
-        location:
-            name: "Physics Department"
-            tag: "physunitn"
-            room: "Room TBD"
-      - hour: "11:30"
-        name: "Plenary Lecture"
-        location:
-            name: "Physics Department"
-            tag: "physunitn"
-            room: "Room TBD"
-        subactivities:
-            -  title: "Hybrid quantum-classical algorithms for solving optimization problems"
-               abstract: "The hybrid approach to quantum computing combines quantum operations and classical processing to maximize the efficiency of existing quantum hardware. In this talk I will present an overview on hybrid quantum-classical algorithms and some recent results in this area about quantum annealing and adiabatic quantum computing."
-               people:
-                   name: "dott. Davide Pastorello"
-                   tag: "pastorello"
-      - hour: "13:00"
-        name: "Lunch"
-        location:
-            name: "Physics Department"
-            tag: "physunitn"
-
-      - hour: "14:30"
-        name: "Lectures by NanoLab Group"
-        group: "nanolab"
-        location:
-            name: "Physics Department"
-            tag: "physunitn"
-            room: "Room TBD"
-        subactivities:
-          - title: "Quantum Science and Technologies: a successful example"
-            abstract: "Starting from the second quantum revolution, the key ingredients of quantum physics essential for developing new kind of devices are discussed. A specific example of device in quantum security will be described."
-            people:
-                name: "prof. Lorenzo Pavesi"
-                tag: "pavesi"
-          - title: "Single particle entanglement: where quantum and classical physics clashes"
-            abstract: "During the talk a definition of entanglement and the methods to assess the entanglement will be described. By using the single particle entanglement, the inherent differences between classical physics and quantum physics (non-locality and contestuality) well be derived."
-            people:
-                name: "dott. Stefano Azzini"
-                tag: "azzini"
-
-          - title: "Heralded single photon sources: who, where, what, when and why"
-            abstract: "The sources of entangled two photons and of heralded single photons are described to show the advantages of integrated quantum photonics and where the field is evolving."
-            people:
-                name: "dott. Stefano Signorini"
-                tag: "signorini"
-
-      - hour: "16:00"
-        name: "Coffee Break"
-        location:
-            name: "Physics Department"
-            tag: "physunitn"
-            room: "Room TBD"
-      - hour: "16:30"
-        name: "Visit to NanoLab laboratories"
-        group: "nanolab"
-        location:
-            name: "Physics Department"
-            tag: "physunitn"
-            room: "NanoLab laboratories"
-
-      - hour: "18:30"
-        name: "Check-in"
-        location:
-            name: "Hostel 'Giovane Europa'"
-            tag: "hosteltrento"
-
-      - hour: "19:30"
-        name: "Social Dinner (optional)"
-        location:
-            name: "La Rosa D'Oro"
-            tag: "rosadoro"
-
-  - day: "Tuesday"
-    date: "24/03"
-    location: "Trento"
+            name: "hotelF1"
+            tag: "hotel_gine"
+      - hour: "19:00 -"
+        name: "Serata libera" 
+        
+  - day: "Martedì"
+    date: "21/04"
+    location: "Ginevra"
     activity:
+      - hour: "8:00"
+        name: "Spostamento hotel - CERN"
+       
       - hour: "9:00"
-        name: "Lectures by BEC Group (Part I)"
-        group: "bec"
-        location:
-            name: "Physics Department"
-            tag: "physunitn"
-            room: "Room TBD"
+        name: "ATLAS + museo del CERN"
         subactivities:
-          - title: "Introduction to superfluidity in quantum gases"
-            people:
-                name: "prof. Franco Dalfovo"
-                tag: "dalfovo"
-          - title: "Production and observation of a BEC"
-            people:
-                name: "prof. Giacomo Lamporesi"
-                tag: "lamporesi"
-
-          - title: "Supersolids and quantum droplets"
-            people:
-                name: "prof. Alessio Recati"
-                tag: "recati"
-          - title: "Analog gravity with cold atoms and photons"
-            people:
-                name: "prof. Iacopo Carusotto"
-                tag: "carusotto"
-      - hour: "10:45"
-        name: "Coffee break"
-        location:
-            name: "Physics Department"
-            tag: "physunitn"
-      - hour: "11:00"
-        name: "Visit to FBK"
-        location:
-            name: "FBK"
-            tag: "fbk"
+            - title: "visita ad ATLAS"
+              group: "Gruppo A"
+            - title: "visita al museo"
+              group: "Gruppi B, C, D"
+        
+      - hour: "10:00"
+        name: "ATLAS + museo del CERN"
+        subactivities:
+            - title: "visita ad ATLAS"
+              group: "Gruppo A"
+            - title: "visita al museo"
+              group: "Gruppi B, C, D"
 
       - hour: "12:30"
         name: "Lunch"
