@@ -4,8 +4,8 @@ cards:
       zoom: true
       items:
         - img: img/atlas.jpg
-          title: ATLAS
-          descr: "The University of Trento is a recent, medium-sized university: the Department of Physics was established in 2012 after its researchers had been engaged in many key sectors for almost 40 years. During this event the University will host talks focused on the research performed in Trento about Bose-Einstein condensation and Nanosciense"
+          title: ATLAS (A Toroidal LHC ApparatuS)
+          descr: "ATLAS is one of the four major experiments at the Large Hadron Collider (LHC) at CERN. It is a general-purpose particle physics experiment run by an international collaboration and, together with CMS, is designed to exploit the full discovery potential and the huge range of physics opportunities that the LHC provides. ATLAS scientific exploration uses precision measurement to push the frontiers of knowledge by seeking answers to fundamental questions such as: What are the basic building blocks of matter? What are the fundamental forces of nature? Could there be a greater underlying symmetry to our universe? ATLAS physicists test the predictions of the Standard Model, which encapsulates our current understanding of what the building blocks of matter are and how they interact. These studies can lead to ground-breaking discoveries, such as that of the Higgs boson, physics beyond the Standard Model and the development of new theories to better describe our universe."
           site: https://atlas.cern
           tag: "atlas"
           map: https://goo.gl/maps/Y3z6xEriCYH2
