@@ -38,17 +38,17 @@ schedule:
         name: "ATLAS + museo del CERN"
         subactivities:
             - title: "visita ad ATLAS"
-              group: "Gruppo A"
+              people: "Gruppo A"
             - title: "visita al museo"
-              group: "Gruppi B, C, D"
+              people: "Gruppi B, C, D"
         
       - hour: "10:00"
         name: "ATLAS + museo del CERN"
         subactivities:
             - title: "visita ad ATLAS"
-              group: "Gruppo A"
+              people: "Gruppo A"
             - title: "visita al museo"
-              group: "Gruppi B, C, D"
+              people: "Gruppi B, C, D"
 
       - hour: "12:30"
         name: "Lunch"
@@ -109,9 +109,10 @@ schedule:
       - hour: "21:00"
         name: "Free night"
         details: none
-  - day: "Wednesday"
-    date: "25/03"
-    location: "Innsbruck"
+        
+  - day: "Mercoledì"
+    date: "22/04"
+    location: "Ginevra"
     activity:
       - hour: "6:00"
         name: "Check out and departure from Trento"
@@ -175,9 +176,9 @@ schedule:
             tag: "resinnsbruck"
 
 
-  - day: "Thursday"
-    date: "26/03"
-    location: "Innsbruck"
+  - day: "Giovedì"
+    date: "23/04"
+    location: "Ginevra"
     activity:
       - hour: "09:00"
         name: "Talks"
