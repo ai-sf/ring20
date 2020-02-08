@@ -2,17 +2,17 @@ description:
     title: "General Info"
     paragraphs:
         - paragraph:
-            - line: "The Trento-Innsbruck Quantum Information Tour is coming to its third edition.<br>The event will have a focus on Bose-Einstein Condensation, Nanoscience, Quantum Optics and Quantum Information. The language of the talks will be English."
-            - line: "Students will be given lectures on forefront theoretical and experimental research in this fields by academics and prominent figures in Trento and Innsbruck environment."
+            - line: "Dopo il successo di RING 2018, l'evento torna per la sua seconda edizione, questa volta in primavera.<br>L'evento guiderà i partecipanti attraverso alcuni tra i maggiori Esperimenti presenti al Conseil Européen pour la Recherche Nucléaire"
+            - line: "I partecipanti avranno come guide figure dell'ambiente di ricerca del CERN stesso."
         - paragraph:
-            - line: "The event will start in Trento with the visit to the University nanosciences and photonics labs."
-            - line: "On Tuesday students will be hosted in the morning by Bruno Kessler Foundation and in the afternoon will be guided through the BEC nanoscience labs."
-            - line: "The following day participants will move to Innsbruck to visit the Institute for Quantum Optics and Quantum Information."
-            - line: "The morning of the final day will be spent at the Physics Department of Innsbruck University. After lunch a private bus will take to Trento participants who need to return there."
+            - line: "I partecipanti si incontreranno a Ginevra, lunedì 22 Aprile."
+            - line: "Martedì con il tram 18 si recheranno dentro il Centro di Ricerca, per visitare, divisi in due gruppi, ATLAS il primo e il museo MICROCOSM il secondo durante la mattina.<br>Entrambi potranno vedere ALICE durante il pomeriggio."
+            - line: "Il giorno dopo i gruppi si invertiranno nelle visite di ATLAS e MICROCOSM, mentre il programma scientifico si chiuderà con con CMS."
+            - line: "Giovedì ci saranno i saluti finali e il rientro."
         - paragraph:
-            - line: "You can find the detailed program below, which will be constantly updated"
+            - line: "Puoi trovare di seguito il programma più dettagliato, costantemente aggiornato."
 
-last_update: 27/11/19
+last_update: 08/02/20
 
 schedule:
   - day: "Lunedì"
@@ -35,81 +35,36 @@ schedule:
         name: "Spostamento hotel - CERN"
        
       - hour: "9:00"
-        name: "ATLAS + museo del CERN"
-        subactivities:
-            - title: "visita ad ATLAS"
-              people: "Gruppo A"
-            - title: "visita al museo"
-              people: "Gruppi B, C, D"
-        
-      - hour: "10:00"
-        name: "ATLAS + museo del CERN"
-        subactivities:
-            - title: "visita ad ATLAS"
-              people: "Gruppo A"
-            - title: "visita al museo"
-              people: "Gruppi B, C, D"
+        name: "ATLAS (Gruppi A e B) + MICROCOSM (Gruppi C e D)"
+        llocation:
+            name: "ATLAS"
+            tag: "atlas"
+              
+      - hour: "12:00"
+        name: "Pranzo libero"
+      
 
-      - hour: "12:30"
-        name: "Lunch"
+      - hour: "13:30"
+        name: "Spostamento ad ALICE"
         location:
-            name: "FBK"
-            tag: "fbk"
-            room: "Room TBD"
+            name: "ALICE"
+            tag: "alice"
+            
       - hour: "14:00"
-        name: "Lectures by BEC Group (Part II)"
-        group: "bec"
+        name: "Visita ad ALICE"
         location:
-            name: "Physics Department"
-            tag: "physunitn"
-            room: "Room TBD"
-        subactivities:
-          - title: "Simulating lattice gauge theories with neutral atoms"
-            people:
-                name: "prof. Philipp Hauke"
-                tag: "hauke"
-          - title: "QCD physics with superfluid mixtures"
-            people:
-                name: "prof. Gabriele Ferrari"
-                tag: "ferrari"
-          - title: "Montecarlo simulation of low-dimensional gases"
-            group: "bec"
-            people:
-                name: "prof. Stefano Giorgini"
-                tag: "giorgini"
-          - title: "Optical lattices and synthetic dimensions"
-            people:
-                name: "prof. Dimitrios Trypogeorgos"
-                tag: "trypogeorgos"
-      - hour: "15:30"
-        name: "Coffee break"
-        location:
-            name: "Physics Department"
-            tag: "physunitn"
-            room: "Room TBD"
+            name: "ALICE"
+            tag: "alice"
+           
       - hour: "16:00"
-        name: "BEC lab tour"
-        group: "bec"
-        location:
-            name: "Physics Department"
-            tag: "physunitn"
-            room: "Laboratories"
-      - hour: "18:00"
-        name: "Orientation moment"
-        location:
-            name: "Physics Department"
-            tag: "physunitn"
-            room: "Room TBD"
-      - hour: "18:45"
-        name: "Dinner buffet"
-        location:
-            name: "Physics Department"
-            tag: "physunitn"
-            room: "Room TBD"
-      - hour: "21:00"
-        name: "Free night"
-        details: none
+        name: "Pomeriggio libero"
+        location: "Ginevra"
+                     
+      - hour: "20:00"
+        name: "Cena sociale"
+        location: "Ginevra"
         
+            
   - day: "Mercoledì"
     date: "22/04"
     location: "Ginevra"
@@ -180,39 +135,9 @@ schedule:
     date: "23/04"
     location: "Ginevra"
     activity:
-      - hour: "09:00"
-        name: "Talks"
-        location:
-            name: "University of Innsbruck"
-            tag: "uniinn"
-            room: "Room TBD"
-      - hour: "10:30"
-        name: "Coffee break"
-        location:
-            name: "University of Innsbruck"
-            tag: "uniinn"
-            room: "Room TBD"
-      - hour: "11:00"
-        name: "University of Innsbruck Lab Tour"
-        location:
-            name: "University of Innsbruck"
-            tag: "uniinn"
-            room: "Room TBD"
-      - hour: "13:00"
-        name: "Pizza lunch with the students of Innsbruck"
-        location:
-            name: "Pizzeria"
-            tag: "pizzainn"
-      - hour: "14:30"
-        name: "Orientation moment"
-        location:
-            name: "University of Innsbruck"
-            tag: "uniinn"
-            room: "Room TBD"
-      - hour: "15:30"
-        name: "Bus to Trento"
-        details: none
-
+      - hour: "10:00"
+        name: "Check-out e partenze"
+        
 
 
 
