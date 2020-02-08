@@ -23,7 +23,7 @@ schedule:
         name: "Arrivi e check-in in hotel"
         location:
             name: "hotelF1"
-            tag: "hotel_gine"
+            tag: "hostelginevra"
       - hour: "19:00 -"
         name: "Serata libera" 
         
@@ -36,7 +36,7 @@ schedule:
        
       - hour: "9:00"
         name: "ATLAS (Gruppi A e B) + MICROCOSM (Gruppi C e D)"
-        llocation:
+        location:
             name: "ATLAS"
             tag: "atlas"
               
@@ -69,67 +69,42 @@ schedule:
     date: "22/04"
     location: "Ginevra"
     activity:
-      - hour: "6:00"
-        name: "Check out and departure from Trento"
-        location:
-            name: "Hostel Giovane Europa"
-            tag: "hosteltrento"
-      - hour: "8:30"
-        name: "Arrival at Innsbruck"
-        details: none
+      - hour: "8:00"
+        name: "Spostamento hotel - CERN"
+       
       - hour: "9:00"
-        name: "IQOQI Lab tour (Part I)"
+        name: "ATLAS (Gruppi A e B) + MICROCOSM (Gruppi C e D)"
         location:
-            name: "IQOQI"
-            tag: "iqoqi"
-            room: "Room TBD"
-      - hour: "10:30"
-        name: "Coffee break"
-        location:
-            name: "IQOQI"
-            tag: "iqoqi"
-            room: "Room TBD"
-      - hour: "11:00"
-        name: "Plenary lecture"
-        location:
-            name: "IQOQI"
-            tag: "iqoqi"
-            room: "Room TBD"
-      - hour: "12:30"
-        name: "Lunch"
-        location:
-            name: "IQOQI"
-            tag: "iqoqi"
-            room: "Room TBD"
-      - hour: "14:00"
-        name: "Plenary lecture"
-        location:
-            name: "IQOQI"
-            tag: "iqoqi"
-            room: "Room TBD"
-      - hour: "15:30"
-        name: "Coffee break"
-        location:
-            name: "IQOQI"
-            tag: "iqoqi"
-            room: "Room TBD"
-      - hour: "16:00"
-        name: "Lab Tour at IQOQI (Part II)"
-        location:
-            name: "IQOQI"
-            tag: "iqoqi"
-            room: "Room TBD"
-      - hour: "18:00"
-        name: "Check in at the hotel"
-        location:
-            name: "Hotel Tautermann"
-            tag: "hotel_innsbruck"
-      - hour: "19:30"
-        name: "Social Dinner"
-        location:
-            name: "Innsbruck Restaurant"
-            tag: "resinnsbruck"
+            name: "ATLAS"
+            tag: "atlas"
+              
+      
 
+      - hour: "12:00"
+        name: "Spostamento a CMS"
+        location:
+            name: "CMS"
+            tag: "cms"
+            
+      - hour: "12:30"
+        name: "Visita a CMS"
+        location:
+            name: "CMS"
+            tag: "cms"
+           
+      - hour: "13:30"
+        name: "Rientro a Ginevra e pranzo libero"
+        location: "Ginevra"
+                     
+      - hour: "15:30"
+        name: "City tour"
+        location: "Ginevra"
+        
+      - hour: "20:00"
+        name: "Cena libera"
+        location: "Ginevra"
+        
+        
 
   - day: "Giovedì"
     date: "23/04"
@@ -142,18 +117,18 @@ schedule:
 
 
 sections:
-  - name: "Partecipation fee and requirements"
+  - name: "Quota di partecipazione e requisiti"
     points:
-    - text: "In order to sign up for the event you must be an AISF or IAPS member"
-    - text: "Participation fee is different whether you need the accommodation both in Trento and Innsbruck or only in one of them:"
+    - text: "Per partecipare devi essere un membro AISF"
+    - text: "La quota di partecipazione è pari a €100 e include:"
       subpoints:
-        - text: "Fee is 50€ without accomodation in Trento or Innsbruck (limited spots)"
-        - text: "Fee is 80€ with included accomodation in Trento at Hostel for the night of Monday and Tuesday and in Innsbruck for the night of Wednesday"
-    - text: "Such fee will cover dinners of Tuesday and Wednesday, all breakfasts and lunches, local transportation in Trento, the bus to and from Innsbruck and the accomodation in Innsbruck"
-    - text: "Participants who need to arrive and sleep in Trento on Sunday 22nd and/or on Thursday 26th can request to book extra night(s) at the hostel, by adding to the fee 21,50€ per night."
-    - text: "Please notice that participation fees <b>does not cover</b> the following:"
+        - text: "Pernottamento presso Ginevra per le notti di lunedì, martedì e mercoledì."
+        - text: "Colazioni martedì, mercoledì e giovedì e cena sociale martedì."
+        - text: "Spostamenti per raggiungere e tornare dal CERN e all'interno del Centro di Ricerca."
+    - text: "Nota bene: la quota di partecipazione <b>non copre</b>:"
       subpoints:
-        - text: "Journeys to and from Trento to arrive at the event and leave once it is concluded"
-        - text: "Insurance"
-    - text: "Note: if you are Italian and you are not an AISF member yet you can become an AISF member while registering for this event."
-    - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
+        - text: "Viaggi di andata e ritorno da Ginevra, questi devono essere organizati autonomamente."
+        - text: "I pranzi di lunedì, martedì, mercoledì e le cene di lunedì e mercoledì."
+        - text: "Assicurazione"
+    - text: "Nota: Se vuoi partecipare, ma non sei ancora membro AISF, potrai completare la tua affiliazione durante l'iscrizione all'evento."
+    - text: "Purtoppo al momento non possiamo fornire borse o sostegno economico per la partecipazione di alcun studente."
