@@ -12,17 +12,24 @@ cards:
           
         - img: img/alice.jpg
           title: ALICE (A Large Ion Collider Experiment)
-          descr: "The Innsbruck Physics Research Center conducts many researches about a broad range of modern topics in physics. The Center is organized along three main research areas: Astro- and Astroparticle Physics, Ion- and Applied Physics, and Quantum Physics. The Center cooperates with many research institutions worldwide and provides a truly international environment for researchers from all over the world. "
+          descr: "ALICE is a heavy-ion detector on the Large Hadron Collider (LHC) ring. It is designed to study the physics of strongly interacting matter at extreme energy densities, where a phase of matter called quark-gluon plasma forms. Collisions in the LHC generate temperatures more than 100,000 times hotter than the centre of the Sun. For part of each year the LHC provides collisions between lead ions, recreating in the laboratory conditions similar to those just after the big bang. Under these extreme conditions, protons and neutrons "melt", freeing the quarks from their bonds with the gluons. This is quark-gluon plasma. The existence of such a phase and its properties are key issues in the theory of quantum chromodynamics (QCD)"
           site: https://home.cern/science/experiments/alice
           tag: "alice"
           map: https://maps.web.cern.ch/?center=2490658.95,1123239.69&xmin=2490523.48&ymin=1123173.15&xmax=2490794.42&ymax=1123306.23&rotation=0&scale=1000&basemap=plan&mode=2D
 
         - img: img/cms.jpg
           title: CMS (Compact Muon Solenoid)
-          descr: "The Institute for Quantum Optics and Quantum Information (IQOQI) of the Austrian Academy of Sciences dedicates its work to theoretical and experimental basic research in the areas of quantum optics and quantum information science. Internationality, worldwide networking and highly actual research topics characterize the institute's work. A particular concern of the institute is the sustainable advancement of young academics, and together with the University of Innsbruck, their integration into the research and teaching program."
+          descr: "The CMS detector is built around a huge solenoid magnet. This takes the form of a cylindrical coil of superconducting cable that generates a field of 4 tesla, about 100,000 times the magnetic field of the Earth. The field is confined by a steel “yoke” that forms the bulk of the detector’s 14,000-tonne weight. An unusual feature of the CMS detector is that instead of being built in-situ like the other giant detectors of the LHC experiments, it was constructed in 15 sections at ground level before being lowered into an underground cavern near Cessy in France and reassembled. The complete detector is 21 metres long, 15 metres wide and 15 metres high.It has a broad physics programme ranging from studying the Standard Model (including the Higgs boson) to searching for extra dimensions and particles that could make up dark matter. Although it has the same scientific goals as the ATLAS experiment, it uses different technical solutions and a different magnet-system design."
           site: https://cms.cern/detector
           tag: "cms"
           map: https://goo.gl/maps/4YHjs2YCg2G2
+          
+        - img: img/microcosm.jpg
+          title: MICROSCOSM
+          descr: "Microcosm's exhibitions take visitors on a journey through CERN’s key installations. Follow the path of the particles from a bottle of Hydrogen, through the network of accelerators and on to collision inside vast experiments."
+          site: https://microcosm.web.cern.ch/en
+          tag: "museum"
+          map: https://www.google.com/maps/place/Globe+of+Science+and+Innovation/@46.2326432,6.0557499,15z/data=!4m2!3m1!1s0x0:0x8326f3de0dd47141?sa=X&ved=2ahUKEwiHvryJocLnAhXKbMAKHZjJBaYQ_BIwC3oECBoQCA
 
         
 
