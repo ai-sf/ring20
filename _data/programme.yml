@@ -73,7 +73,7 @@ schedule:
         name: "Spostamento hotel - CERN"
        
       - hour: "9:00"
-        name: "ATLAS (Gruppi A e B) + MICROCOSM (Gruppi C e D)"
+        name: "ATLAS (Gruppi C e D) + MICROCOSM (Gruppi A e B)"
         location:
             name: "ATLAS"
             tag: "atlas"
