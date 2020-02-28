@@ -12,4 +12,10 @@ slideshow:
 cards:
     - size: "small"
       items:
+        - title: "ProTek"
+          site: "http://www.protek.it/"
+          img: "img/sponsors/protek.jpg"
+        - title: "Copy 500"
+          site: ""
+          img: "img/sponsors/copy_500.jpg"
        
